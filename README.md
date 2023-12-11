@@ -1,0 +1,1 @@
+# subscribtion-nextjs-stripe-app
